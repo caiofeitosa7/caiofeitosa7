@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, eu sou o Caio 🙃
+
+- 🏠 Natural de Teresina/PI;
+- 📚 Sou estudante de Ciência da Computação na UFPI;
+- 🩺 Desenvolvendo meu TCC com a aplicação de IA na saúde;
 
 <!--
 **caiofeitosa7/caiofeitosa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
