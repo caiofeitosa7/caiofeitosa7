@@ -1,20 +1,36 @@
-### Olá, eu sou o Caio 🙃
+## Olá, eu sou o Caio 🙃
 
 - 🏠 Natural de Teresina/PI;
 - 📚 Sou estudante de Ciência da Computação na UFPI;
 - 🩺 Desenvolvendo meu TCC com a aplicação de IA na saúde;
 
-<!--
-**caiofeitosa7/caiofeitosa7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tecnologias e ferramentas:
 
-Here are some ideas to get you started:
+<i class="devicon-git-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35px" height="35px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40px" height="40px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="40px" height="40px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Aprendendo:
+
+<i class="devicon-git-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="35px" height="35px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="35px" height="35px"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
